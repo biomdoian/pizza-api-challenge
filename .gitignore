@@ -1,0 +1,21 @@
+ # Python
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    .Python
+    env/
+    venv/
+    pipenv/
+    .venv/
+
+    # Virtual Environment
+    .env
+    .flaskenv
+
+    # Database
+    *.db
+    *.sqlite
+    *.sqlite3
+    instance/
+    
